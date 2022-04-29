@@ -10,3 +10,5 @@ OOP implementation to cut down on code re-use
 REGEX use to find text in lines rather than checking if the line itself is an exact match
 Output improved
 Character location for input text beginning and end of appropriate line and file is now shown in output
+
+Example:
