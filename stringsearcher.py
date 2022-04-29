@@ -1,7 +1,7 @@
 import os
 
 searchQuery = input("What text are you searching for? ")
-fileExtension = input("What file extensions are searching through? ")
+fileExtension = input("What file extensions are being searched through? ")
 directory = input("Directory to search through? ")
 recursive = input("Recursive? Y/N: ")
 
